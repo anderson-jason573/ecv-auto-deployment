@@ -1,6 +1,6 @@
 # ecv-auto-deployment
 
- wiki: https://github.com/anderson-jason573/ecv-auto-deployment/wiki/Welcome-to-the-ecv-auto-deployment-wiki!
+ wiki: https://github.com/anderson-jason573/ecv-auto-deployment/wiki/Welcome-to-the-ecv-auto-deployment-wiki
 
 This module will aid in the provisioning of a Silver Peak EdgeConnect virtual machine (EC-V), 
 by automating many of the manual processes necessary to deploy the VM. The module will use the 
