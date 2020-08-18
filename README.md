@@ -1,4 +1,4 @@
-# ecv-auto-deployment-v3
+# ecv-auto-deployment
 
 This module will aid in the provisioning of a Silver Peak EdgeConnect virtual machine (EC-V), 
 by automating many of the manual processes necessary to deploy the VM. The module will use the 
